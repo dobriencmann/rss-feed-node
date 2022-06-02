@@ -8,3 +8,4 @@ const {data} = await got.post('https://httpbin.org/anything', {
 
 console.log(data);
 //=> {"hello": "world"}
+
